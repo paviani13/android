@@ -44,6 +44,16 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:text="60sp"
+        android:textSize="60sp"
+        android:background="#abcdef"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:textColor="#666666"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:text="80sp"
         android:textSize="80sp"
         android:background="#ffff00"
