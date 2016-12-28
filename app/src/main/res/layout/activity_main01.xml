@@ -44,8 +44,8 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="20sp"
-        android:textSize="20sp"
+        android:text="60sp"
+        android:textSize="60sp"
         android:background="#bbbbbb"
         android:textAlignment="center"
         android:textStyle="bold"
